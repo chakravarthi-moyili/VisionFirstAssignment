@@ -56,7 +56,7 @@ This is a full-stack application that allows users to register, log in, and mana
    );
   2. **Company Table:**
      ```bash
-    CREATE TABLE COMPANY (
+     CREATE TABLE COMPANY (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(255),
     address VARCHAR(255),
