@@ -62,7 +62,7 @@ This is a full-stack application that allows users to register, log in, and mana
     address VARCHAR(255),
     created_by VARCHAR(255),
     status ENUM('APPROVED', 'UNAPPROVED')
-);
+    );
 
 ### Sample Users
 ## Admin
