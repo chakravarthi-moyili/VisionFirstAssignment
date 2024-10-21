@@ -1,6 +1,6 @@
-# VisionFirstAssignment
+# VisionFirstAssignment (https://vision-first-assignment.netlify.app/)
 
-## Overview (https://vision-first-assignment.netlify.app/)
+## Overview
 
 This is a full-stack application that allows users to register, log in, and manage companies. It supports two types of users: administrators (ADMIN) and normal users (USER). Admins can create, approve, edit, and delete companies, while normal users can create companies and view those they own.
 
