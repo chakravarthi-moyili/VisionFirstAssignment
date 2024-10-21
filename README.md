@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a full-stack application that allows users to register, log in, and manage companies. It supports two types of users: administrators (IT_ADMIN) and normal users (IT_USER_NORMAL). Admins can create, approve, edit, and delete companies, while normal users can create companies and view those they own.
+This is a full-stack application that allows users to register, log in, and manage companies. It supports two types of users: administrators (ADMIN) and normal users (USER). Admins can create, approve, edit, and delete companies, while normal users can create companies and view those they own.
 
 ## Technologies Used
 
@@ -56,7 +56,7 @@ This is a full-stack application that allows users to register, log in, and mana
    );
   2. **Company Table:**
      ```bash
-     CREATE TABLE COMPANY (
+    CREATE TABLE COMPANY (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(255),
     address VARCHAR(255),
