@@ -1,0 +1,90 @@
+{
+  "companies": [
+    {
+      "id": "1",
+      "companyname": "Vision first",
+      "companyaddress": "Chennai",
+      "createdby": "admin",
+      "status": "Approved"
+    },
+    {
+      "id": "2",
+      "companyname": "Mio Telecom",
+      "companyaddress": "New Delhi",
+      "createdby": "user",
+      "status": "Unapproved"
+    },
+    {
+      "id": "3",
+      "companyname": "Box Office",
+      "companyaddress": "India",
+      "createdby": "user",
+      "status": "Unapproved"
+    },
+    {
+      "id": "4",
+      "companyname": "Star Factory",
+      "companyaddress": "Chennai",
+      "createdby": "user",
+      "status": "Unapproved"
+    }
+  ],
+  "signup": [
+    {
+      "id": "8f09",
+      "name": "Chakravarthi Moyili",
+      "username": "Chakravarthi",
+      "role": "admin",
+      "email": "moyilichakri@gmail.com",
+      "phone": "9848022338",
+      "password": "Chakri@22"
+    },
+    {
+      "id": "2f06",
+      "name": "Ajay Kumar",
+      "username": "Ajay_Rowdy",
+      "role": "user",
+      "email": "ajay@gmail.com",
+      "phone": "8899775566",
+      "password": "Ajay@222"
+    },
+    {
+      "id": "8f90",
+      "name": "Prabhas Raju",
+      "username": "Darling_Prabhas",
+      "role": "user",
+      "email": "darling@gmail.com",
+      "phone": "1122334455",
+      "password": "Darling@22"
+    },
+    {
+      "id": "8f78",
+      "name": "Vijay Thalapathy",
+      "username": "Thala_vijay",
+      "role": "user",
+      "email": "vijay@gmail.com",
+      "phone": "9988776655",
+      "password": "Vijay@22"
+    },
+    {
+      "id": "8f29",
+      "name": "Vedanth",
+      "username": "Vedanth_babai",
+      "role": "user",
+      "email": "vedanth@gmail.com",
+      "phone": "9087654321",
+      "password": "Vedanth@21",
+      "confirmPassword": "Vedanth@21"
+    },
+    {
+      "id": "8f05",
+      "name": "Nagashree",
+      "username": "Whyso_angry",
+      "role": "user",
+      "email": "naga@gmail.com",
+      "phone": "7899625698",
+      "password": "Nagashree@21",
+      "confirmPassword": "Nagashree@21"
+    }
+  ]
+}
